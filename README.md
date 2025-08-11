@@ -4,17 +4,21 @@
 
 ## 🧑‍💻 About Me
 
-Soy Ángel Hernández Ojeda y soy de España.  
-- 🔬 Actualmente investigo y desarrollo en el área de **Inteligencia Artificial** y **Visión por Computador**.  
-- 📚 Apasionado por el aprendizaje continuo y la exploración de nuevas tecnologías.  
-- 🌱 En mi tiempo libre, me gusta conectar con la naturaleza y aprender cosas nuevas fuera del mundo tech.  
+Soy Ángel Hernández Ojeda, desde España 🌍
+🚀 Ingeniero e investigador apasionado por transformar ideas en soluciones a través de la Inteligencia Artificial y la Visión por Computador.
+💡 Me encanta trabajar en proyectos que mezclen ciencia, creatividad y propósito.
+
+Lo que me define:
+  🔍 Curiosidad insaciable y ganas de aprender siempre.
+  🛠️ Amor por construir, experimentar y mejorar.
+  🌱 Conexión con la naturaleza y exploración de mundos fuera de la tecnología.
+
+📬 Siempre abierto a colaborar en proyectos innovadores o charlar sobre tecnología, ciencia y creatividad.
 
 ---
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZenelXO)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/TU-ORCID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-hernandez39)
 
 ---
 
