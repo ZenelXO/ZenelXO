@@ -6,7 +6,7 @@
 
 Soy **Ángel Hernández Ojeda**, desde España 🌍  
 
-🚀 **Ingeniero e investigador** apasionado por transformar ideas en soluciones a través de la **Inteligencia Artificial** y la **Visión por Computador**.  
+🚀 **Ingeniero informático e investigador de IA** apasionado por transformar ideas en soluciones a través de la **Inteligencia Artificial** y la **Visión por Computador**.  
 
 💡 Me encanta trabajar en proyectos que mezclen **ciencia, creatividad y propósito**.  
 
