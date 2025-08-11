@@ -36,7 +36,7 @@ Soy **Ángel Hernández Ojeda**, desde España 🌍
 
 ---
 
-## 📊 My Stats  
+## 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenelXO&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenelXO&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenelXO&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenelXO&layout=compact&theme=radical)
